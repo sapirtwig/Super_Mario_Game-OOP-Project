@@ -1,4 +1,4 @@
-#*Super Mario Game*# - C#
+#Super Mario Game - C#
 I created a Super Mario game as part of my OOP (Object-Oriented Programming) course to demonstrate key OOP principles such as inheritance and polymorphism. 
 In this game, the characters inherit from one another based on their abilities and points, allowing them to gain power and grow.
 
