@@ -1,0 +1,30 @@
+C:\Users\Sapir\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\bin\Debug\MarioGameProject.exe.config
+C:\Users\Sapir\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\bin\Debug\MarioGameProject.exe
+C:\Users\Sapir\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\bin\Debug\MarioGameProject.pdb
+C:\Users\Sapir\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.csproj.AssemblyReference.cache
+C:\Users\Sapir\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.Form1.resources
+C:\Users\Sapir\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.Properties.Resources.resources
+C:\Users\Sapir\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.csproj.GenerateResource.cache
+C:\Users\Sapir\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.csproj.CoreCompileInputs.cache
+C:\Users\Sapir\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.exe
+C:\Users\Sapir\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.pdb
+C:\Users\Oriyae\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.csproj.AssemblyReference.cache
+C:\Users\Oriyae\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.exe
+C:\Users\Oriyae\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.pdb
+C:\Users\Oriyae\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\bin\Debug\MarioGameProject.exe.config
+C:\Users\Oriyae\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\bin\Debug\MarioGameProject.exe
+C:\Users\Oriyae\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\bin\Debug\MarioGameProject.pdb
+C:\Users\Oriyae\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.Form1.resources
+C:\Users\Oriyae\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.Properties.Resources.resources
+C:\Users\Oriyae\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.csproj.GenerateResource.cache
+C:\Users\Oriyae\Downloads\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.csproj.CoreCompileInputs.cache
+C:\Users\Oriyae\Downloads\MarioGameProject Final 07.09.23\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\bin\Debug\MarioGameProject.exe.config
+C:\Users\Oriyae\Downloads\MarioGameProject Final 07.09.23\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\bin\Debug\MarioGameProject.exe
+C:\Users\Oriyae\Downloads\MarioGameProject Final 07.09.23\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\bin\Debug\MarioGameProject.pdb
+C:\Users\Oriyae\Downloads\MarioGameProject Final 07.09.23\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.csproj.AssemblyReference.cache
+C:\Users\Oriyae\Downloads\MarioGameProject Final 07.09.23\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.Form1.resources
+C:\Users\Oriyae\Downloads\MarioGameProject Final 07.09.23\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.Properties.Resources.resources
+C:\Users\Oriyae\Downloads\MarioGameProject Final 07.09.23\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.csproj.GenerateResource.cache
+C:\Users\Oriyae\Downloads\MarioGameProject Final 07.09.23\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.csproj.CoreCompileInputs.cache
+C:\Users\Oriyae\Downloads\MarioGameProject Final 07.09.23\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.exe
+C:\Users\Oriyae\Downloads\MarioGameProject Final 07.09.23\MarioGameProject\MarioGameProject\MarioGameProject\MarioGameProject\obj\Debug\MarioGameProject.pdb
