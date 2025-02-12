@@ -7,4 +7,3 @@ The game is written in C#, and to run it, you need to download all files and exe
 
 ![ezgif-82f6598b2258d2](https://github.com/user-attachments/assets/fab9545c-9d94-4d2e-9837-9bcef01c0cd4)
 
-![super mario gif](https://github.com/user-attachments/assets/927ee225-41d4-4308-a396-8aa17c6d4c17)
